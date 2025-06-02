@@ -12,7 +12,7 @@ Resume: Today you will see how relational model works and how to get needed data
 - All tasks contain a list of Allowed and Denied sections with listed database options, database types, SQL constructions etc. Please have a look at the section before you start.
 - Please have a look at the Logical View of our Database Model. 
 
-![schema](misc/images/schema.png)
+![schema](misc/schema.png)
 
 
 1. **pizzeria** table (Dictionary Table with available pizzerias)
